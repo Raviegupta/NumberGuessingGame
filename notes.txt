@@ -1,6 +1,0 @@
-What is DOM ?
-Structured Presentation of HTML Documents. Allows JavaScript to access HTML elements and styles to manipulate them.
-
-manipulate :- change text, HTML attributes and even CSS styles
-
-DOM is a part of Web-APIs
